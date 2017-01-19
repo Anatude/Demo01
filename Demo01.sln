@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht04", "Teht04\Teht04.csproj", "{9D07CE7A-B9CB-47AA-AE88-FC490A9801CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht05", "Teht05\Teht05.csproj", "{C460C672-A670-42C2-B7B0-DA4CD4800295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht03uusi", "Teht03uusi\Teht03uusi.csproj", "{3B1497DA-E285-4903-8D32-36524CB247B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D07CE7A-B9CB-47AA-AE88-FC490A9801CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D07CE7A-B9CB-47AA-AE88-FC490A9801CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D07CE7A-B9CB-47AA-AE88-FC490A9801CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D07CE7A-B9CB-47AA-AE88-FC490A9801CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C460C672-A670-42C2-B7B0-DA4CD4800295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C460C672-A670-42C2-B7B0-DA4CD4800295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C460C672-A670-42C2-B7B0-DA4CD4800295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C460C672-A670-42C2-B7B0-DA4CD4800295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B1497DA-E285-4903-8D32-36524CB247B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1497DA-E285-4903-8D32-36524CB247B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1497DA-E285-4903-8D32-36524CB247B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1497DA-E285-4903-8D32-36524CB247B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
